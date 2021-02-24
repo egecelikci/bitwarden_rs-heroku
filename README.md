@@ -1,8 +1,8 @@
 # Bitwarden_rs on Heroku for Free!
 Deploy Bitwarden_rs in Heroku for free via Github1
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/davidjameshowell/bitwarden_rs_heroku/BitwardenRSOnHerokuAIO/deploy?label=Deploy%20Bitwarden_RS&style=for-the-badge)
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/davidjameshowell/bitwarden_rs_heroku/BitwardenRSOnHerokuAIO/main?label=Update%20Bitwarden_RS&style=for-the-badge)
+[![BitwardenRSOnHeroku_Update](https://github.com/egecelikci/bitwarden_rs-heroku/actions/workflows/update.yml/badge.svg)](https://github.com/egecelikci/bitwarden_rs-heroku/actions/workflows/update.yml)
+[![BitwardenRSOnHeroku_Deploy](https://github.com/egecelikci/bitwarden_rs-heroku/actions/workflows/deploy.yml/badge.svg)](https://github.com/egecelikci/bitwarden_rs-heroku/actions/workflows/deploy.yml)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/davidjameshowell/bitwarden_rs_heroku/badge)](https://www.codefactor.io/repository/github/davidjameshowell/bitwarden_rs_heroku)
 
